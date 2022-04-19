@@ -190,7 +190,7 @@ Number of regions
 To download and install the latest development version from GitHub:
 
 ``` r
-devtools::install_gitlab("depauwrobby/bemaps")
+devtools::install_github("sciensanogit/bemaps")
 ```
 
 ## Data sources
